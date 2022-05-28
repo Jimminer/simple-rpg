@@ -1,5 +1,5 @@
 # simple-rpg
-A project I started with my friend @Giratin. It's nothing more than a simple rpg game written in Python.
+A project I started with my friend [Kalamaleft](https://github.com/kalamaleft). It's nothing more than a simple rpg game written in Python.
 
 # Actions
 The current working actions are: Find available shops
